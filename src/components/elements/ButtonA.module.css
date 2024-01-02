@@ -1,10 +1,9 @@
 .btn {
     background-color: #74fac0;
-    border: none;
+    border: 2px solid transparent;
     padding: 10px;
     border-radius: 10px;
     font-weight: bolder;
-    margin-top: 15px;
     cursor: pointer;
 }
 
@@ -13,5 +12,4 @@
     background-color: transparent;
     border: 2px solid #74fac0;
     transition-duration: 0.3s;
-    transform: translateY(-7px);
 }

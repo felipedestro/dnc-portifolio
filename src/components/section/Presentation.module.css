@@ -1,6 +1,6 @@
 .presentation {
     text-align: left;
-    margin-left: 15%;
+    margin-left: 10%;
 }
 
 .presentation h1 {
@@ -9,4 +9,8 @@
 
 .presentation h4 {
     font-size: 25px;
+}
+
+.presentation p:last-of-type {
+    margin-bottom: 30px;
 }

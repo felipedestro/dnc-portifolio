@@ -4,7 +4,6 @@
     padding: 10px;
     border-radius: 10px;
     font-weight: bolder;
-    margin-top: 15px;
     color: #74fac0;
     cursor: pointer;
 }
@@ -13,5 +12,4 @@
     color: black;
     background-color: #74fac0;
     transition-duration: 0.5s;
-    transform: translateY(-7px);
 }

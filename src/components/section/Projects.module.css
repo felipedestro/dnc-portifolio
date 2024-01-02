@@ -1,8 +1,16 @@
 .projects {
     text-align: justify;
-    margin-left: 75px;
 }
 
 .projects h1 {
     font-size: 45px;
+    text-align: center;
+}
+
+.projects .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    gap: 10px;
 }

@@ -1,6 +1,7 @@
 import styles from './Projects.module.css';
 import Card from '../elements/Card';
 import lpdnc from '../../image/projects/lpdnc.svg'
+import ButtonA from '../elements/ButtonA';
 
 function Projects () {
     return (
@@ -22,6 +23,10 @@ function Projects () {
                 repo='https://github.com/felipedestro/landing-page'
                 site='https://base-dnc-landing-page.netlify.app/'
             />
+            <div className={styles.center}>
+                <p>Para acessar o repositório completo: </p>
+                <ButtonA link='https://github.com/felipedestro' text='Clique Aqui!'/>
+            </div>
         </div>
     )
 }

@@ -23,6 +23,11 @@
     width: 500px;
 }
 
+.card section p:last-of-type {
+    margin-bottom: 30px;
+}
+
 .card h3 {
     font-size: 25px;
 }
+
